@@ -1,0 +1,15 @@
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\Calcul.exe
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\Calcul.deps.json
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\Calcul.runtimeconfig.json
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\Calcul.dll
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\Calcul.pdb
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.dll
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\refint\Calcul.dll
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.pdb
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\Calcul.genruntimeconfig.cache
+C:\Users\Даниил\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ref\Calcul.dll
